@@ -11,8 +11,10 @@ Develop an image classification model using transfer learning with VGG19 archite
 
 ## Neural Network Model
 
-![alt text](image.png)
+<img width="984" height="634" alt="image" src="https://github.com/user-attachments/assets/da97eaf8-3850-4f53-869a-9689eda2e8e3" />
 
+
+  
 ## DESIGN STEPS
 ### STEP 1: 
 
@@ -270,23 +272,26 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-![alt text](image-1.png)
+<img width="891" height="369" alt="image" src="https://github.com/user-attachments/assets/5979f335-a48a-4082-a05d-e29b960fd588" />
 
-![alt text](image-2.png)
+<img width="691" height="546" alt="image" src="https://github.com/user-attachments/assets/b19fd251-37d5-453f-967a-955ba2a60288" />
 
 ## Confusion Matrix
 
-![alt text](image-3.png)
+<img width="641" height="547" alt="image" src="https://github.com/user-attachments/assets/1eae127d-210e-4032-86b6-24f6b30921df" />
+
 
 ## Classification Report
 
-![alt text](image-4.png)
+<img width="836" height="383" alt="image" src="https://github.com/user-attachments/assets/7fbf6abf-e27f-44ca-991c-4fee46996a7a" />
+
 
 ### New Sample Data Prediction
 
-![alt text](image-5.png)
+<img width="586" height="656" alt="image" src="https://github.com/user-attachments/assets/2c14d2ba-c539-475a-86d4-930ad2734296" />
 
-![alt text](image-6.png)
+<img width="600" height="668" alt="image" src="https://github.com/user-attachments/assets/5faae155-22c6-4f6d-8011-0f291f428458" />
+
 
 ## RESULT
 
